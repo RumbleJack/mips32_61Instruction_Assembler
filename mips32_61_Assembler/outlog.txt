@@ -1,0 +1,54 @@
+.DATA fuckNUM(0) fuckT_COMMENT 
+lineno:2fuckIDNAME(NUM1) fuck.WORD fuckNUM(85) fuck
+lineno:3fuckIDNAME(NUM2) fuck.WORD fuckNUM(170) fuck
+lineno:4fuckIDNAME(NUM3) fuck.WORD fuckNUM(0) fuck
+lineno:5fuckT_COMMENT 
+lineno:6.CODE fuckNUM(0) fuckT_COMMENT 
+lineno:7lable(start) : fuck
+lineno:8fuckT_SICOM fuckT_REG , NUM(65535) fuckT_COMMENT 
+lineno:9fuckT_ICOM fuckT_REG , T_REG , NUM(61440) fuckT_COMMENT 
+lineno:10fuckT_LWICOM fuckT_REG , fucklable(lo:NUM3) T_BREG fuckT_COMMENT 
+lineno:11fuckT_LWICOM fuckT_REG , fucklable(lo:NUM2) T_BREG fuckT_COMMENT 
+lineno:12fuckT_SICOM fuckT_REG , fucklable(hi:NUM1) fuckT_COMMENT 
+lineno:13fuck
+lineno:14lable(k1) : fuckT_LWICOM fuckT_REG , IDNAME(NUM1) T_BREG fuckT_COMMENT 
+lineno:15fuckT_LWICOM fuckT_REG , IDNAME(NUM2) T_BREG fuckT_COMMENT 
+lineno:16fuckT_RCOM fuckT_REG , T_REG , T_REG fuckT_COMMENT 
+lineno:17fuckT_LWICOM fuckT_REG , IDNAME(NUM3) T_BREG fuckT_COMMENT 
+lineno:18fuckT_RCOM fuckT_REG , T_REG , T_REG fuckT_COMMENT 
+lineno:19fuckT_RCOM fuckT_REG , T_REG , T_REG fuckT_COMMENT 
+lineno:20fuckT_COMMENT 
+lineno:21fuckT_RCOM fuckT_REG , T_REG , T_REG fuckT_COMMENT 
+lineno:22fuckT_RCOM fuckT_REG , T_REG , T_REG fuckT_COMMENT 
+lineno:23fuckT_RCOM fuckT_REG , T_REG , T_REG fuckT_COMMENT 
+lineno:24fuckT_RCOM fuckT_REG , T_REG , T_REG fuckT_COMMENT 
+lineno:25fuckT_ICOM fuckT_REG , T_REG , NUM(-4) fuckT_COMMENT 
+lineno:26fuck
+lineno:27lable(gh) : fuckT_RCOM fuckT_REG , T_REG , T_REG fuckT_COMMENT 
+lineno:28fuckT_LWICOM fuckT_REG , fuckNUM(3152) T_BREG fuckT_COMMENT 
+lineno:29fuckT_ICOM fuckT_REG , T_REG , IDNAME(gh) fuckT_COMMENT 
+lineno:30fuckT_ICOM fuckT_REG , T_REG , IDNAME(ty) fuckT_COMMENT 
+lineno:31fuck
+lineno:32fuckT_NOP fuckT_COMMENT 
+lineno:33fuck
+lineno:34lable(ty) : fuckT_JCOM fuckIDNAME(jj) fuckT_COMMENT 
+lineno:35fuckT_JCOM fuckIDNAME(mm) fuckT_COMMENT 
+lineno:36lable(jj) : fuckT_RMJCOM fuckT_REG fuckT_COMMENT 
+lineno:37fuck
+lineno:38lable(mm) : fuckT_ICOM fuckT_REG , T_REG , NUM(153) fuckT_COMMENT 
+lineno:39fuckT_ICOM fuckT_REG , T_REG , NUM(119) fuckT_COMMENT 
+lineno:40fuckT_RSCOM fuckT_REG , T_REG , NUM(4) fuckT_COMMENT 
+lineno:41fuckT_RSCOM fuckT_REG , T_REG , NUM(4) fuckT_COMMENT 
+lineno:42fuckT_RCOM fuckT_REG , T_REG , T_REG fuckT_COMMENT 
+lineno:43fuckT_SICOM fuckT_REG , NUM(39304) fuckT_COMMENT 
+lineno:44fuckT_RSCOM fuckT_REG , T_REG , NUM(4) fuckT_COMMENT 
+lineno:45fuckT_ICOM fuckT_REG , T_REG , NUM(0) fuckT_COMMENT 
+lineno:46fuckT_LWICOM fuckT_REG , fuckNUM(3152) T_BREG fuckT_COMMENT 
+lineno:47fuckT_ICOM fuckT_REG , T_REG , NUM(2) fuckT_COMMENT 
+lineno:48fuckT_RCOM fuckT_REG , T_REG , T_REG fuckT_COMMENT 
+lineno:49fuckT_JCOM fuckIDNAME(k1) fuckT_COMMENT 
+lineno:50.CODE fuckNUM(65528) fuck
+lineno:51fuckT_RMJCOM fuckT_REG fuckT_COMMENT 
+lineno:52.CODE fuckNUM(65532) fuck
+lineno:53fuckT_RMJCOM fuckT_REG fuckT_COMMENT 
+lineno:54
